@@ -6,3 +6,8 @@ A crypto wallet built with Flutter. Currently only supports [TreeCoin (TRC)](htt
 
 https://user-images.githubusercontent.com/46898603/161193596-c05a11f7-da07-4961-86f3-18bf73e798cb.mov
 
+
+## git@github.com:sramos30/crypto-wallet-flutter.git
+
+## https://github.com/PixelAppsMobile/crypto-wallet-flutter.git
+
